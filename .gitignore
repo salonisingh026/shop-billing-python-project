@@ -1,0 +1,28 @@
+# Local store data and receipt exports
+data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+bill.txt
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output and Windows bundles
+build/
+dist/
+*.exe
+*.spec
+*.toc
+*.pyz
+*.pkg
+*.manifest
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
